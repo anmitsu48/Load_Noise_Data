@@ -12,6 +12,7 @@ NoiseMeter_Excel_Data の中に、騒音計で取得したデータを整理し�
 計測時は下の写真のように三脚に騒音計SLM-25（ https://www.gainexpress.com/products/slm-25 ）を取り付け、
 騒音計の下部にボイスレコーダーAi-16（Amazon：https://www.amazon.co.jp/gp/product/B0BKLCFT92/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1 ）を設置したものを使用しました。
 騒音計の高さは、ウインドスクリーン（スポンジの部分）の部分が床面から125cmの高さでした。
-ボイスレコーダーは感度を7段階で一番小さなものに設定し、ノイズキャンセリング機能はOFFに設定してから計測を実施しました。
+騒音計はFast、A特性に設定し、この騒音計対応のGUIを利用して10秒に1回記録するように設定しました。
+また、ボイスレコーダーは感度を7段階で一番小さなものに設定し、ノイズキャンセリング機能はOFFに設定してから計測を実施しました。
 
 ![三脚設置環境](https://github.com/anmitsu48/Load_Noise_Data/assets/58377673/9c6f2eeb-1483-44fc-9b40-3164eda51585)

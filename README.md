@@ -14,6 +14,8 @@ NoiseMeter_Excel_Data の中に、騒音計で取得したデータを整理し�
   - SLM-25（ https://www.gainexpress.com/products/slm-25 ）
   - ボイスレコーダーAi-16（Amazon：https://www.amazon.co.jp/gp/product/B0BKLCFT92/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1 ）
 
+![三脚設置環境](https://github.com/anmitsu48/Load_Noise_Data/assets/58377673/9c6f2eeb-1483-44fc-9b40-3164eda51585)
+
 騒音計とボイスレコーダーの細かな設定を箇条書きでまとめると以下の通りです。
   - 騒音計の高さ：ウインドスクリーン（スポンジの部分）の部分が床面から125cm。
   - 騒音計はFast、A特性に設定。
@@ -25,8 +27,6 @@ NoiseMeter_Excel_Data の中に、騒音計で取得したデータを整理し�
 ※ 騒音計とボイスレコーダーのデータをアップロードしていますが、時刻同期は完璧にはできていません。
 ちなみに、同期方法は、騒音計とボイスレコーダーの両者の録音開始ボタンを押した後に「アー」と大声で叫んだタイミングをそろえるようにしているだけです。
 騒音計が10秒に1回の記録設定のため、最大で10秒の差があると思います。正直、いくつかの波形を確認していると、5, 6秒の差はあると個人的には思っています。
-
-![三脚設置環境](https://github.com/anmitsu48/Load_Noise_Data/assets/58377673/9c6f2eeb-1483-44fc-9b40-3164eda51585)
 
 ## Noteでの記事公開
 本レポジトリで公開しているデータに関連する記事をnoteで公開しています。
